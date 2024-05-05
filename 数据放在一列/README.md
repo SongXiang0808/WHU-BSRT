@@ -1,11 +1,13 @@
 # 数据放在一列
-该脚本只是为了针对性的解决将这类的数据格式转化为
+该脚本只是为了针对性的解决将这类的数据格式
 | AU           |                |                |           |         |
 |--------------|----------------|----------------|-----------|---------|
 | Abdullahi,SB | Chamnongthai,K | Bolon-Canedo,V | Cancela,B |         |
 | Tong,JY      | Tang,SY        | Zheng,JD       | Zhao,HJ   | Wu,Y    |
 | Li,GC        | Xu,SX          | Zhang,LY       | Sun,L     | Jiang,R |
-下面的这样的数据格式
+
+转化为下面的这样的数据格式
+
 | AU             |
 |----------------|
 | Abdullahi,SB   |
