@@ -7,5 +7,5 @@ Bibliometrics and Scientific Research Trends in Wuhan University
 
 如果有问题的话，可以邮件联系
 ```
-songxiang@whu,edu.cn
+songxiang@whu.edu.cn
 ```
